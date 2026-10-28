@@ -25,6 +25,12 @@ npm install
 npm run dev                 # http://localhost:5173
 ```
 
+
+## Live Demo
+
+- Frontend: https://your-frontend.onrender.com
+- Backend: https://your-backend.onrender.com
+
 ### Demo logins (created by the seed script)
 | Role  | Email              | Password |
 |-------|--------------------|----------|
