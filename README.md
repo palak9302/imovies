@@ -28,8 +28,8 @@ npm run dev                 # http://localhost:5173
 
 ## Live Demo
 
-- Frontend: https://your-frontend.onrender.com
-- Backend: https://your-backend.onrender.com
+- Frontend: https://imovies-15w0.onrender.com/
+- Backend: https://imovies-backend-6hjx.onrender.com/
 
 ### Demo logins (created by the seed script)
 | Role  | Email              | Password |
